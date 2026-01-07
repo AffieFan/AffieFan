@@ -9,44 +9,63 @@
 
 ---
 ## Featured Projects
+## Featured Projects
 
-### Validation of Pupil Labs’ Neon Head-Mounted Eye Tracking System for Human Behavioural Research
-Experimental validation study assessing the accuracy, precision, and reliability of the Pupil Labs Neon eye-tracking system for human behavioural research. The project evaluates calibration performance, gaze tracking consistency, and data quality across tasks, establishing suitability for use in controlled and applied research settings.
-- **Tech:** Python, D-Lab, Neon Player
-- **What I built:** Python AOI (Area of Interest) Glance Sorting Pipelines: Automated and Manual
-- **Impact:** Improved Glance Analysis Efficiency
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Validation of Pupil Labs’ Neon Eye Tracking System  
+Experimental validation study assessing accuracy, precision, and reliability of the Pupil Labs Neon head-mounted eye-tracking system for human behavioural research.
+
+- **Tech:** Python, D-Lab, Neon Player  
+- **What I built:** Python AOI (Area of Interest) glance sorting pipelines (automated & manual)  
+- **Impact:** Improved glance analysis efficiency and data reliability  
 
 🔗 [GitHub Repo](https://github.com/yourusername/project)
----
 
-### Caffeine Intake Optimization & Fatigue Modeling
-Mathematical and computational modeling project exploring the relationship between caffeine intake, metabolism, and fatigue over time. The project uses differential equations to model caffeine absorption and decay, and evaluates intake strategies to optimize alertness while minimizing negative effects.
+    </td>
+    <td width="50%" valign="top">
+
+### Caffeine Intake Optimization & Fatigue Modeling  
+Mathematical and computational modeling project exploring caffeine intake, metabolism, and fatigue using differential equations.
 
 - **Tech:** Python, NumPy, SciPy, Matplotlib  
-- **What I built:** Mathematical fatigue model, ODE-based caffeine metabolism simulation, and visualization tools for comparing intake strategies  
-- **Impact:** Enabled data-driven evaluation of caffeine timing and dosage to improve alertness modeling  
+- **What I built:** ODE-based caffeine metabolism and fatigue model with visualization tools  
+- **Impact:** Enabled data-driven evaluation of caffeine timing and dosage strategies  
 
 🔗 [GitHub Repo](https://github.com/yourusername/project)
 
+    </td>
+  </tr>
 
-### Bridge Design Project
-Team-based structural engineering project focused on the design and analysis of a bridge system under realistic loading and constraint conditions. The project involved structural modeling, force analysis, and design trade-offs to ensure safety, efficiency, and feasibility.
+  <tr>
+    <td width="50%" valign="top">
+
+### Bridge Design Project  
+Structural engineering project focused on bridge design under realistic loading and constraint conditions, emphasizing safety and feasibility.
 
 - **Tech:** Engineering analysis, hand calculations, CAD / simulation tools  
-- **What I built:** Structural design calculations, load analysis models, and supporting documentation for a complete bridge design  
-- **Impact:** Delivered a structurally sound bridge design meeting safety and performance requirements  
+- **What I built:** Structural calculations, load analysis models, and design documentation  
+- **Impact:** Delivered a structurally sound bridge design meeting performance requirements  
 
 🔗 [GitHub Repo](https://github.com/yourusername/project)
 
----
-### YRSTF Fruit Ripeness Detector
-Sensor-based detection project aimed at identifying fruit ripeness using measurable physical or chemical signals. The system processes sensor data to classify ripeness stages, supporting objective and repeatable assessment.
+    </td>
+    <td width="50%" valign="top">
+
+### YRSTF Fruit Ripeness Detector  
+Sensor-based system for detecting fruit ripeness using measurable physical signals and automated classification.
 
 - **Tech:** Arduino  
-- **What I built:** Data processing pipeline and classification logic for determining fruit ripeness from sensor measurements  
+- **What I built:** Sensor data processing pipeline and ripeness classification logic  
 - **Impact:** Demonstrated a low-cost, automated approach to fruit ripeness detection  
 
 🔗 [GitHub Repo](https://github.com/yourusername/project)
+
+    </td>
+  </tr>
+</table>
 
 
 ## Technical Arsenal
