@@ -1,77 +1,36 @@
-## Hi there, I'm Affie Fan
-[LinkedIn](https://linkedin.com/in/affiefan) • 
-[Email](affie.fan@mail.utoronto.ca)
-
-## About Me
-- Second Year Engineering Science @ University of Toronto
-- Researched @ HFASt lab 
-- Interests: Engineering systems, circuits, and applied mathematics
+## Hi there, I'm Affie Fan  
+[LinkedIn](https://linkedin.com/in/affiefan) • [Email](mailto:affie.fan@mail.utoronto.ca)
 
 ---
-<h2>Featured Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> Validation of Pupil Labs’ Neon Eye Tracking System</h3>
-      <p>
-        Experimental validation study assessing accuracy, precision, and reliability of the Pupil Labs Neon
-        head-mounted eye-tracking system for human behavioural research.
-      </p>
-      <ul>
-        <li><b>Tech:</b> Python, D-Lab, Neon Player</li>
-        <li><b>What I built:</b> Python AOI (Area of Interest) glance sorting pipelines (automated &amp; manual)</li>
-        <li><b>Impact:</b> Improved glance analysis efficiency and data reliability</li>
-      </ul>
-      <p>🔗 <a href="https://github.com/yourusername/project">GitHub Repo</a></p>
-    </td>
+## About Me
+- Second Year Engineering Science @ University of Toronto  
+- Researcher @ HFASt Lab  
+- Interests: Engineering systems, circuits, and applied mathematics  
 
-    <td width="50%" valign="top">
-      <h3> Caffeine Intake Optimization &amp; Fatigue Modeling</h3>
-      <p>
-        Mathematical and computational modeling exploring caffeine intake, metabolism, and fatigue using
-        differential equations.
-      </p>
-      <ul>
-        <li><b>Tech:</b> Python, NumPy, SciPy, Matplotlib</li>
-        <li><b>What I built:</b> ODE-based caffeine metabolism and fatigue model with visualization tools</li>
-        <li><b>Impact:</b> Enabled data-driven evaluation of caffeine timing and dosage strategies</li>
-      </ul>
-      <p>🔗 <a href="https://github.com/yourusername/project">GitHub Repo</a></p>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌉 Bridge Design Project</h3>
-      <p>
-        Structural engineering project focused on bridge design under realistic loading and constraint
-        conditions, emphasizing safety and feasibility.
-      </p>
-      <ul>
-        <li><b>Tech:</b> Engineering analysis, hand calculations, CAD / simulation tools</li>
-        <li><b>What I built:</b> Structural calculations, load analysis models, and design documentation</li>
-        <li><b>Impact:</b> Delivered a structurally sound bridge design meeting performance requirements</li>
-      </ul>
-      <p>🔗 <a href="https://github.com/yourusername/project">GitHub Repo</a></p>
-    </td>
+## Featured Projects
 
-    <td width="50%" valign="top">
-      <h3> YRSTF Fruit Ripeness Detector</h3>
-      <p>
-        Sensor-based system for detecting fruit ripeness using measurable physical signals and automated
-        classification.
-      </p>
-      <ul>
-        <li><b>Tech:</b> Arduino</li>
-        <li><b>What I built:</b> Sensor data processing pipeline and ripeness classification logic</li>
-        <li><b>Impact:</b> Demonstrated a low-cost, automated approach to fruit ripeness detection</li>
-      </ul>
-      <p>🔗 <a href="https://github.com/yourusername/project">GitHub Repo</a></p>
-    </td>
-  </tr>
-</table>
+| **Validation of Pupil Labs’ Neon Eye Tracking System** | **Caffeine Intake Optimization & Fatigue Modeling** |
+|---|---|
+| **Tech:** Python, D-Lab, Neon Player | **Tech:** Python, NumPy, SciPy, Matplotlib |
+| Experimental validation of a head-mounted eye-tracking system, evaluating accuracy, calibration performance, and gaze data quality for behavioural research. | Mathematical and computational modeling of caffeine metabolism and fatigue using differential equations. |
+| **Built:** AOI (Area of Interest) glance sorting pipelines (automated & manual) | **Built:** ODE-based caffeine metabolism & fatigue model with visualizations |
+| **Impact:** Improved glance analysis efficiency | **Impact:** Data-driven evaluation of caffeine timing and dosage |
+| 🔗 [GitHub Repo](https://github.com/yourusername/project) | 🔗 [GitHub Repo](https://github.com/yourusername/project) |
 
+<br/>
+
+| **Bridge Design Project** | **YRSTF Fruit Ripeness Detector** |
+|---|---|
+| **Tech:** Engineering analysis, CAD / simulation tools | **Tech:** Arduino |
+| Structural engineering project focused on bridge design under realistic loading and constraint conditions. | Sensor-based system for detecting fruit ripeness using physical signal measurements. |
+| **Built:** Structural calculations, load analysis models, and design documentation | **Built:** Sensor data processing and ripeness classification logic |
+| **Impact:** Delivered a structurally sound bridge design | **Impact:** Demonstrated a low-cost automated ripeness detector |
+| 🔗 [GitHub Repo](https://github.com/yourusername/project) | 🔗 [GitHub Repo](https://github.com/yourusername/project) |
+
+---
 
 ## Technical Arsenal
 
@@ -84,6 +43,8 @@
 ![Verilog](https://img.shields.io/badge/Verilog-000000?logo=verilog&logoColor=white)
 ![RISC--V](https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=white)
 
+---
+
 ### Let’s Connect
-If you’re interested in collaborating, chatting, or sharing ideas, reach out!
+If you’re interested in collaborating, chatting, or sharing ideas, feel free to reach out!
 
