@@ -22,12 +22,11 @@ Experimental validation study assessing the accuracy, precision, and reliability
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-000000?logo=verilog&logoColor=white)
+![RISC--V](https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=white)
 
 ---
 
