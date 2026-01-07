@@ -10,45 +10,61 @@
 ---
 ## Featured Projects
 
-| **Validation of Pupil Labs’ Neon Head-Mounted Eye Tracking System for Human Behavioural Research** |
-|---|
-| **Tech:** Python, D-Lab, Neon Player  
-Experimental validation study assessing the accuracy, precision, and reliability of the Pupil Labs Neon eye-tracking system for human behavioural research. The project evaluates calibration performance, gaze tracking consistency, and data quality across tasks, establishing suitability for use in controlled and applied research settings.  
-**What I built:** Python AOI (Area of Interest) glance sorting pipelines (automated and manual)  
-**Impact:** Improved glance analysis efficiency  
-🔗 [GitHub Repo](https://github.com/yourusername/project) |
+<table>
+<tr>
+<td width="50%">
 
-<br/>
+### Validation of Pupil Labs’ Neon Head-Mounted Eye Tracking System
+Experimental validation study assessing the accuracy, precision, and reliability of the Pupil Labs Neon eye-tracking system for human behavioural research.
 
-| **Caffeine Intake Optimization & Fatigue Modeling** |
-|---|
-| **Tech:** Python, NumPy, SciPy, Matplotlib  
-Mathematical and computational modeling project exploring the relationship between caffeine intake, metabolism, and fatigue over time using differential equations.  
-**What I built:** Mathematical fatigue model, ODE-based caffeine metabolism simulation, and visualization tools for comparing intake strategies  
-**Impact:** Enabled data-driven evaluation of caffeine timing and dosage to improve alertness modeling  
-🔗 [GitHub Repo](https://github.com/yourusername/project) |
+- **Tech Stack**: Python, D-Lab, Neon Player
+- **Built**: AOI (Area of Interest) glance sorting pipelines (automated & manual)
+- **Impact**: Improved glance analysis efficiency and data quality
+- 🔗 [GitHub Repo](https://github.com/yourusername/project)
 
-<br/>
+</td>
+<td width="50%">
 
-| **Bridge Design Project** |
-|---|
-| **Tech:** Engineering analysis, hand calculations, CAD / simulation tools  
-Team-based structural engineering project focused on the design and analysis of a bridge system under realistic loading and constraint conditions.  
-**What I built:** Structural design calculations, load analysis models, and supporting documentation for a complete bridge design  
-**Impact:** Delivered a structurally sound bridge design meeting safety and performance requirements  
-🔗 [GitHub Repo](https://github.com/yourusername/project) |
+### Caffeine Intake Optimization & Fatigue Modeling
+Mathematical and computational modeling of caffeine metabolism and fatigue using differential equations to analyze intake strategies and alertness over time.
 
-<br/>
+- **Tech Stack**: Python, NumPy, SciPy, Matplotlib
+- **Built**: ODE-based caffeine metabolism & fatigue model with visualizations
+- **Impact**: Data-driven evaluation of caffeine timing and dosage
+- 🔗 [GitHub Repo](https://github.com/yourusername/project)
 
-| **YRSTF Fruit Ripeness Detector** |
-|---|
-| **Tech:** Arduino  
-Sensor-based detection project aimed at identifying fruit ripeness using measurable physical or chemical signals.  
-**What I built:** Data processing pipeline and classification logic for determining fruit ripeness from sensor measurements  
-**Impact:** Demonstrated a low-cost, automated approach to fruit ripeness detection  
-🔗 [GitHub Repo](https://github.com/yourusername/project) |
+</td>
+</tr>
 
-### Languages 
+<tr>
+<td width="50%">
+
+### Bridge Design Project
+Team-based structural engineering project focused on bridge design under realistic loading and constraint conditions.
+
+- **Tech Stack**: Structural analysis, CAD / simulation tools
+- **Built**: Load calculations, structural models, and design documentation
+- **Impact**: Delivered a structurally sound bridge design meeting safety requirements
+- 🔗 [GitHub Repo](https://github.com/yourusername/project)
+
+</td>
+<td width="50%">
+
+### YRSTF Fruit Ripeness Detector
+Sensor-based detection system for identifying fruit ripeness using measurable physical signals and automated classification.
+
+- **Tech Stack**: Arduino, Sensors
+- **Built**: Sensor data processing pipeline and ripeness classification logic
+- **Impact**: Demonstrated a low-cost, automated approach to ripeness detection
+- 🔗 [GitHub Repo](https://github.com/yourusername/project)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
