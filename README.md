@@ -19,7 +19,7 @@ Experimental validation study assessing the accuracy, precision, and reliability
 - **Tech**: Python, D-Lab, Neon Player
 - **Built**: AOI (Area of Interest) glance sorting pipelines (automated & manual)
 - **Impact**: Improved glance analysis efficiency and data quality
-- 🔗 [GitHub Repo](https://github.com/yourusername/project)
+- [GitHub Repo](https://github.com/yourusername/project)
 
 </td>
 <td width="50%">
@@ -30,7 +30,7 @@ Mathematical and computational modeling of caffeine metabolism and fatigue using
 - **Tech**: Python, NumPy, SciPy, Matplotlib
 - **Built**: ODE-based caffeine metabolism & fatigue model with visualizations
 - **Impact**: Data-driven evaluation and optimization of caffeine timing and dosage
-- 🔗 [GitHub Repo](https://github.com/yourusername/project)
+- [GitHub Repo](https://github.com/yourusername/project)
 
 </td>
 </tr>
@@ -38,12 +38,10 @@ Mathematical and computational modeling of caffeine metabolism and fatigue using
 <tr>
 <td width="50%">
 
-### Bridge Design Project
-Team-based structural engineering project focused on bridge design under realistic loading and constraint conditions.
-
-- **Tech**: Python
-- **Built**: Load calculations and design optimization
-- 🔗 [GitHub Repo](https://github.com/yourusername/project)
+### ESC180/ESC190 Projects
+Engineering Coding Course Projects
+- **Tech**: Python, C
+- [GitHub Repo](https://github.com/yourusername/project)
 
 </td>
 <td width="50%">
@@ -54,7 +52,7 @@ Sensor-based detection system for identifying fruit ripeness using measurable ph
 - **Tech**: Arduino
 - **Built**: Sensor data processing pipeline and ripeness classification logic
 - **Impact**: Demonstrated a low-cost, automated approach to ripeness detection
-- 🔗 [GitHub Repo](https://github.com/yourusername/project)
+- [GitHub Repo](https://github.com/yourusername/project)
 
 </td>
 </tr>
