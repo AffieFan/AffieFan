@@ -19,7 +19,7 @@ Experimental validation study assessing the accuracy, precision, and reliability
 - **Tech**: Python, D-Lab, Neon Player
 - **Built**: AOI (Area of Interest) glance sorting pipelines (automated & manual)
 - **Impact**: Improved glance analysis efficiency and data quality
-- [GitHub Repo](https://github.com/yourusername/project)
+- [GitHub Repo](https://github.com/AffieFan/Neon-Player-Post-Hoc-Automated-and-Manual-Pipelines)
 
 </td>
 <td width="50%">
