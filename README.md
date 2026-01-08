@@ -5,7 +5,6 @@
 ## About Me
 - Second Year Engineering Science @ University of Toronto
 - Researched @ HFASt lab 
-- Interests: Engineering systems, circuits, and applied mathematics
 
 ---
 ## Featured Projects
