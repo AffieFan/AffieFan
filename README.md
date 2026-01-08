@@ -41,7 +41,7 @@ Mathematical and computational modeling of caffeine metabolism and fatigue using
 ### ESC180/ESC190 Projects
 Engineering Coding Course Projects
 - **Tech**: Python, C
-- [GitHub Repo](https://github.com/yourusername/project)
+- [GitHub Repo](https://github.com/AffieFan/ESC180-190-Course-Projects)
 
 </td>
 <td width="50%">
