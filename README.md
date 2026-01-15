@@ -46,13 +46,13 @@ Engineering Coding Course Projects
 </td>
 <td width="50%">
 
-### YRSTF Fruit Ripeness Detector
-Sensor-based detection system for identifying fruit ripeness using measurable physical signals and automated classification.
+### LEGO Colour Sorter
+Fully automated mechatronic system for sorting LEGO pieces by colour using RGB sensing and coordinated actuation.
 
 - **Tech**: Arduino
-- **Built**: Sensor data processing pipeline and ripeness classification logic
-- **Impact**: Demonstrated a low-cost, automated approach to ripeness detection
-- [GitHub Repo](https://github.com/yourusername/project)
+- **Built**: Colour sensing, conveyor control, and carousel-based sorting logic
+- **Impact**: Demonstrated a reliable, low-cost approach to automated LEGO colour sorting
+- [GitHub Repo](https://github.com/AffieFan/Lego-Colour-Sorter-)
 
 </td>
 </tr>
