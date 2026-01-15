@@ -4,7 +4,7 @@
 
 ## About Me
 - Second Year Engineering Science @ University of Toronto
-- Researched @ HFASt lab 
+- Research @ HFASt lab 
 
 ---
 ## Featured Projects
