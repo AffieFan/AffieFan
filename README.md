@@ -24,13 +24,13 @@ Experimental validation study assessing the accuracy, precision, and reliability
 </td>
 <td width="50%">
 
-### Caffeine Intake Optimization & Fatigue Modeling
-Mathematical and computational modeling of caffeine metabolism and fatigue using differential equations to analyze intake strategies and alertness over time.
+### LEGO Colour Sorter
+Fully automated mechatronic system for sorting LEGO pieces by colour using RGB sensing and coordinated actuation.
 
-- **Tech**: Python, NumPy, SciPy, Matplotlib
-- **Built**: ODE-based caffeine metabolism & fatigue model with visualizations
-- **Impact**: Data-driven evaluation and optimization of caffeine timing and dosage
-- [GitHub Repo](https://github.com/yourusername/project)
+- **Tech**: Arduino
+- **Built**: Colour sensing, conveyor control, and carousel-based sorting logic
+- **Impact**: Demonstrated a reliable, low-cost approach to automated LEGO colour sorting
+- [GitHub Repo](https://github.com/AffieFan/Lego-Colour-Sorter-)
 
 </td>
 </tr>
@@ -45,14 +45,29 @@ Engineering Coding Course Projects
 
 </td>
 <td width="50%">
+  
+### LaTeX Course Notes
+Structured LaTeX documentation for Engineering Science courses, organized by course code and topic.
 
-### LEGO Colour Sorter
-Fully automated mechatronic system for sorting LEGO pieces by colour using RGB sensing and coordinated actuation.
+- **Tech**: LaTeX
+- **Built**: Second Year Fall Course Notes
+- [GitHub Repo](https://github.com/AffieFan/LaTeX-Course-Notes)
 
-- **Tech**: Arduino
-- **Built**: Colour sensing, conveyor control, and carousel-based sorting logic
-- **Impact**: Demonstrated a reliable, low-cost approach to automated LEGO colour sorting
-- [GitHub Repo](https://github.com/AffieFan/Lego-Colour-Sorter-)
+<tr>
+<td width="50%">
+  
+### Caffeine Intake Optimization & Fatigue Modeling
+Mathematical and computational modeling of caffeine metabolism and fatigue using differential equations to analyze intake strategies and alertness over time.
+
+- **Tech**: Python, NumPy, SciPy, Matplotlib
+- **Built**: ODE-based caffeine metabolism & fatigue model with visualizations
+- **Impact**: Data-driven evaluation and optimization of caffeine timing and dosage
+- [GitHub Repo](https://github.com/yourusername/project)
+
+
+</td>
+<td width="50%">
+
 
 </td>
 </tr>
