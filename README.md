@@ -62,7 +62,7 @@ Mathematical and computational modeling of caffeine metabolism and fatigue using
 - **Tech**: Python, NumPy, SciPy, Matplotlib
 - **Built**: ODE-based caffeine metabolism & fatigue model with visualizations
 - **Impact**: Data-driven evaluation and optimization of caffeine timing and dosage
-- [GitHub Repo](https://github.com/yourusername/project)
+- [GitHub Repo]([https://github.com/yourusername/project](https://github.com/markiyan-konyk/Caffeine-MAT292-A.Fan-M.Konyk-M.Lubach))
 
 
 </td>
