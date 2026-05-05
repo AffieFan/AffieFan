@@ -3,9 +3,7 @@
 [Email](affie.fan@mail.utoronto.ca)
 
 ## About Me
-- Second Year Engineering Science @ University of Toronto
-- Research @ HFASt lab 
-
+- Incoming 3rd Year @ Aerospace Engineering @ University of Toronto
 ---
 ## Featured Projects
 
