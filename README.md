@@ -3,7 +3,7 @@
 [Email](affie.fan@mail.utoronto.ca)
 
 ## About Me
-- Incoming 3rd Year @ Aerospace Engineering @ University of Toronto
+- Incoming 3rd Year Aerospace Engineering @ University of Toronto
 ---
 ## Featured Projects
 
